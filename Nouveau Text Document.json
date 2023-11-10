@@ -1,0 +1,59 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": true,
+            "HideIconAfter": 10,
+            "IconURL": "https://rare-gallery.com/thumbs/505888-death-note.jpg",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Welcome",
+                    "title1": "Welcome On Light servers",
+                    "text1": "Hi all,  Community has been a close-knit community of gamers since January 2016. 1 Owner 4 Admins to help you ingame and on discord. System ticket on discord.",
+                    "imageurl": "https://images5.alphacoders.com/740/740577.png"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 1,
+                    "buttontext": "Rules",
+                    "title1": "Rules",
+                    "text1": "1. Do not undermesh, glitch, exploit, insults, racism, abuse or cheat\n2. You are not allowed to spam foundations to excess. (This applies to all structures)\n3. Forbidden to build or block artefact caves. Rip all your structures !!!",
+                    "imageurl": "https://images5.alphacoders.com/740/740577.png"
+                }
+            },
+            {
+                "tab3": {
+                    "layout": 1,
+                    "buttontext": "Donation",
+                    "title1": "Donation",
+                    "text1": "after a donate do a ticket on discord  with a screenshot of the donation. Indicate the server for which you wish to earn points.",
+                    "imageurl": "https://images5.alphacoders.com/740/740577.png"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/DHhKQps"
+                }
+            },
+            {
+                "link2": {
+                    "text": "Donate",
+                    "url": "https://light.tip4serv.com/"
+                }
+            }
+        ]
+    }
+}
